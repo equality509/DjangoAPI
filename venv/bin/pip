@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/eric/Desktop/Online Class/project4-2/DjangoAPI/venv/bin/python3.11" "$0" "$@"
+'''exec' "/Users/eric/Desktop/Online Class/project4-2/DjangoAPI/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
