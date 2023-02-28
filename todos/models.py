@@ -7,4 +7,3 @@ class Todo(models.Model):
     year = models.CharField(max_length=100,default='default_value')
     color= models.CharField(max_length=100,default='default_value')
     price = models.CharField(max_length=500,default='default_value')
-    venue_image = models.ImageField(null=True, blank=True, upload_to="images/")
